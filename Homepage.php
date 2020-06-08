@@ -20,6 +20,7 @@
 		<h1>Welcome To VIT Digital Directory</h1>
 
 	</div>
+	<p> <p>
 	<div class="button">
 		<a href="FacultyLoginpage.php" class="btn">Login as Faculty </a>
 		<a href="StudentLoginpage.php" class="btn">Login as Student</a>
